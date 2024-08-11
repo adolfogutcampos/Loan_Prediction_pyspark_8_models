@@ -25,7 +25,7 @@ El conjunto de datos se puede descargar del siguiente enlace:
 
 https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset
 
-# 🏗 2.- Modelos para predicción de viabilidad de préstamos
+# 🏗 1.- Modelos para predicción de viabilidad de préstamos
 
 Construcción y evaluación de 8 modelos diferentes para la predicción de viabilidad de préstamos:
 
@@ -55,7 +55,7 @@ Tras haber elaborado los modelos, se ha identificado opciones de mejora para obt
 
 - Incorporación de Características Derivadas (Feature Engineering)
 
-# 📊 Comparación de modelos
+# 📊 2.- Comparación de modelos
 
 | Modelo                             | AUC      | Exactitud (Accuracy) | Sensibilidad (Recall) | Precisión (Precision) | F1 Score | Coeficiente de Gini |
 |------------------------------------|----------|----------------------|-----------------------|-----------------------|----------|---------------------|
